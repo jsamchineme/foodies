@@ -7,15 +7,18 @@ A play ground for learning to cook professionally
 - Haven been assigned this glorious role of procurement officer
 - I promise to go about the procurement of foodstuffs for today's meal `EPIC`ally
 - By going to the most hygienic market in the land
-- Then buying then procuring the most grainful rice available and juiciest of tomatoes
+- Then procured the most grainful rice available and juiciest of tomatoes/pepper
 - And finally with :sparkling_heart: from Ibidapo
 
 # Feature 2: Preparing the utensils - Omoefe
+
 - Wash the pots
 - Wash the plates
 
 # Feature 3: Preparing the ingredients - Peace
+
 ## For the Rice
+
 - 3 cups of Rice
 - 4 cups of Water
 - 1 teaspoon of Salt
@@ -47,6 +50,7 @@ A play ground for learning to cook professionally
 - Salt, to taste
 
 # Feature 4: Cooking the food - Samuel
+
 - Light the Cooker
 - Boil the rice (white rice)
 - Make the stew using all the ingredients in their appropriate syntax
@@ -55,6 +59,7 @@ A play ground for learning to cook professionally
 # Feature 5: Serving the food - Princess
 
 To serve the food, do the following
+
 - Get a white plate
 - Dry it with a towel
 - Use a big spoon to scoop the rice into a plate
