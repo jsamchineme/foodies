@@ -10,8 +10,11 @@ A play ground for learning to cook professionally
 - Then buying then procuring the most grainful rice available and juiciest of tomatoes
 - And finally with :sparkling_heart: from Ibidapo
 
-# Feature 2: Preparing the ingredients - Peace
+# Feature 2: Preparing the utensils - Omoefe
+- Wash the pots
+- Wash the plates
 
+# Feature 3: Preparing the ingredients - Peace
 ## For the Rice
 - 3 cups of Rice
 - 4 cups of Water
@@ -42,8 +45,6 @@ A play ground for learning to cook professionally
 - 1 teaspoon curry
 - 1 teaspoon dry thyme
 - Salt, to taste
-
-# Feature 3: Getting Kitchen utensils ready - Omoefe
 
 # Feature 4: Cooking the food - Samuel
 - Light the Cooker
