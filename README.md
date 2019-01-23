@@ -12,9 +12,38 @@ A play ground for learning to cook professionally
 
 # Feature 2: Preparing the ingredients - Peace
 
-# Feature 3: Preparing the utensils - Omoefe
-- Wash the pots
-- Wash the plates
+## For the Rice
+- 3 cups of Rice
+- 4 cups of Water
+- 1 teaspoon of Salt
+
+## For Nigerian Tomato Stew
+
+- 6 large fresh tomatoes
+- 1 small size canned/tinned tomato paste/puree (optional)
+- 2 large onions
+- 1 large red bell pepper/tatashe
+- 2 scotch bonnet peppers/atarodo
+- 1 tablespoon curry powder
+- 1/2 tablespoon dry thyme
+- 2 seasoning cubes, knorr or maggi
+- Salt, to taste
+- Knorr cubes
+- 1/2 to 1 cup vegetable oil
+- Meat stock (I used the stock from the chicken)
+
+## For Chicken
+
+- 4- chicken pieces (you can use beef , lamb, goat, turkey etc)
+- 1 small onion
+- 2 garlic cloves
+- 1-hot pepper
+- 2 seasoning cubes
+- 1 teaspoon curry
+- 1 teaspoon dry thyme
+- Salt, to taste
+
+# Feature 3: Getting Kitchen utensils ready - Omoefe
 
 # Feature 4: Cooking the food - Samuel
 - Light the Cooker
