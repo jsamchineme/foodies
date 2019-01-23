@@ -16,3 +16,9 @@ A play ground for learning to cook professionally
 - Tada!. Rice is ready to be served
 
 # Feature 5: Serving the food - Princess
+
+To serve the food, do the following
+- Get a white plate
+- Dry it with a towel
+- Use a big spoon to scoop the rice into a plate
+- Take it to the dinning table
