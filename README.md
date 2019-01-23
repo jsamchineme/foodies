@@ -22,3 +22,4 @@ To serve the food, do the following
 - Dry it with a towel
 - Use a big spoon to scoop the rice into a plate
 - Take it to the dinning table
+- Smile to yourself and say, I didn't cook this nice food.
