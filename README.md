@@ -5,7 +5,9 @@ A play ground for learning to cook professionally
 
 # Feature 2: Preparing the ingredients - Peace
 
-# Feature 3: Getting Kitchen utensils ready - Omoefe
+# Feature 4: Cooking the food - Samuel
+- Wash the pots
+- Wash the plates
 
 # Feature 4: Cooking the food - Samuel
 - Light the Cooker
