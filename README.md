@@ -1,7 +1,14 @@
 # foodies
+
 A play ground for learning to cook professionally
 
-# Feature 1: Going to the market - Ibidapo
+### Going to the market
+
+- Haven been assigned this glorious role of procurement officer
+- I promise to go about the procurement of foodstuffs for today's meal `EPIC`ally
+- By going to the most hygienic market in the land
+- Then buying then procuring the most grainful rice available and juiciest of tomatoes
+- And finally with :sparkling_heart: from Ibidapo
 
 # Feature 2: Preparing the ingredients - Peace
 
